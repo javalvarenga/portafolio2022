@@ -15,12 +15,13 @@
 .best-title h1{
     font-size: 3.6rem;
     color: burlywood;
-    animation:moveText 4s ease infinite;
+    animation:moveText 9s ease infinite;
 }
 .best-title p{
     font-size: 1.6rem;
-    animation:moveText 4s ease infinite;
+    animation:moveText 9s ease infinite;
     animation-delay: 0.5s;
+    animation-direction: reverse;
     color: var(--grayText);
 }
 
@@ -38,17 +39,11 @@
     }
 
 }
- @keyframes moveText2 {
-
-    0%{
-        transform: translateX(0);
+@media (max-width:750px) {
+    .best-title h1{
+            font-size: 1.9rem;
     }
-    50%{
-        transform: translateX(30px);
+    .best-title p{
+        font-size: 1.3rem;
     }
-
-    100%{
-        transform: translateX(0);
-    }
-   
 }

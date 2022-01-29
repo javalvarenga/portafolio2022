@@ -13,7 +13,31 @@ header{
 .section-tabs >*{
     margin-right: 10px;
 }
-@media (min-width:744px) {
 
-    
+#menuTab{
+    display: none;
+}
+@media (max-width:750px) {
+#menuTab{
+    display: flex;   
+}
+
+#menuTab img {
+    transform: rotate(45deg);
+}
+#info,#projects{
+display: none;
+}
+    .section-tabs{
+        display: none;
+    }
+}
+
+@media (max-width:490px) {
+    #resumeTab{
+        display: none;
+    }
+    header{
+        justify-content: center;
+    }
 }

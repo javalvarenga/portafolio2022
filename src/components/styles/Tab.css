@@ -2,6 +2,8 @@
     display: flex;
     border-bottom:2px solid burlywood;
     align-items: center;
+    cursor:pointer;
+    color: var(--tabgrayText);
 }
 .tab h6{
     font-size: 1.3rem;

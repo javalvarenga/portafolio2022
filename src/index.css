@@ -1,10 +1,12 @@
 :root {
   --grayText: rgb(160, 160, 160);
+  --tabgrayText: rgb(114, 114, 114);
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 a{
