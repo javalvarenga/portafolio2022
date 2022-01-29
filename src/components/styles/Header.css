@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1.6rem 3rem;
+}
+
+.section-tabs{
+    display: flex;
+    flex-direction: row;
+}
+.section-tabs >*{
+    margin-right: 10px;
+}
+@media (min-width:744px) {
+
+    
+}

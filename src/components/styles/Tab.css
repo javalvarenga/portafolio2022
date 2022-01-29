@@ -1,0 +1,16 @@
+.tab{
+    display: flex;
+    border-bottom:2px solid burlywood;
+    align-items: center;
+}
+.tab h6{
+    font-size: 1.3rem;
+    padding: 1.3rem;
+    font-family: BROKEN MIRROR;
+    font-style: normal;
+    font-weight:100;
+}
+.tab img{
+    height: 16px;
+    transform: rotate(-45deg);
+}

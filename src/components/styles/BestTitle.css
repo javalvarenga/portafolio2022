@@ -1,0 +1,54 @@
+.best-title{
+    margin-top: 9rem;
+    font-family: BROKEN MIRROR;
+  width: 80%;
+    align-self: center;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.best-title >*{
+    margin-bottom: 1.6rem;
+}
+
+.best-title h1{
+    font-size: 3.6rem;
+    color: burlywood;
+    animation:moveText 4s ease infinite;
+}
+.best-title p{
+    font-size: 1.6rem;
+    animation:moveText 4s ease infinite;
+    animation-delay: 0.5s;
+    color: var(--grayText);
+}
+
+@keyframes moveText {
+
+    0%{
+        transform: translateX(0);
+    }
+    50%{
+        transform: translateX(40px);
+    }
+
+    100%{
+        transform: translateX(0);
+    }
+
+}
+ @keyframes moveText2 {
+
+    0%{
+        transform: translateX(0);
+    }
+    50%{
+        transform: translateX(30px);
+    }
+
+    100%{
+        transform: translateX(0);
+    }
+   
+}
