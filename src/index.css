@@ -12,3 +12,6 @@
 a{
     text-decoration: none;
 }
+a:hover{
+  color: var(--grayText);
+}

@@ -5,12 +5,11 @@ import Tab from "./Tab";
 const Header = () => {
   return (
     <header>
-      <Tab title="Abraham Alvarenga" id="resumeTab"/>
-      <div className="section-tabs" >
-        <Tab title="Proyectos" id="projectsTab"/>
-        <Tab title="Información" id="infoTab" />
+      <Tab title="Abraham Alvarenga" to="/" />
+      <div className="section-tabs">
+        <Tab title="Proyectos" id="projectsTab" to="/projects" />
+        <Tab title="Sobre mi" id="infoTab" to="/about" />
       </div>
-      <Tab title="Menú" id="menuTab" />
     </header>
   );
 };

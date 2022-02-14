@@ -12,3 +12,7 @@ body{
 
   background-color: aliceblue;
 }
+
+a li:hover{
+  color: var(--grayText);
+}

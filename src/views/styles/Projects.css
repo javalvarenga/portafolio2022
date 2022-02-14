@@ -1,0 +1,58 @@
+.projects {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Courier New", Courier, monospace;
+}
+.projects .tab img{
+    transform: rotate(90deg);
+}
+
+.projects-section {
+  align-self: center;
+  margin-top: 6rem;
+  max-width: 1200px;
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  flex-wrap: wrap;
+  place-items: center;
+  gap: 3rem;
+}
+.project {
+  max-height: 448px;
+  max-width: 350px;
+  padding-bottom: 3.6rem;
+  margin-bottom: 3rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 8px solid burlywood;
+}
+
+.project > img {
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  min-height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+.project-info {
+  padding: 0 1rem;
+  font-size: 1rem;
+}
+.project-info h3 {
+  margin: 1.6rem 0;
+  color: burlywood;
+}
+.project-info p {
+  margin-bottom: 1.6rem;
+}
+
+.project-info .icons img {
+  height: 25px;
+  width: 25px;
+  margin: 0 1rem;
+}

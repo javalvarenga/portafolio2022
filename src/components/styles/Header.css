@@ -18,19 +18,23 @@ header{
     display: none;
 }
 @media (max-width:750px) {
-#menuTab{
-    display: flex;   
+header{
+    flex-direction: column;
+}
+header h6{
+    font-size: 1rem;
+}
+header .section-tabs{
+    flex-direction: column;
+}
+header > a {
+    max-width: 300px;
+    margin-bottom: 3rem;
+}
+header .section-tabs > a{
+    max-width: 200px;
 }
 
-#menuTab img {
-    transform: rotate(45deg);
-}
-#info,#projects{
-display: none;
-}
-    .section-tabs{
-        display: none;
-    }
 }
 
 @media (max-width:490px) {
