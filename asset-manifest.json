@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portafolio2022/static/css/main.71e6d4a8.css",
-    "main.js": "/portafolio2022/static/js/main.132efd86.js",
-    "static/media/tiendita.png": "/portafolio2022/static/media/tiendita.fbf9e7bed122d2d9c02a.png",
-    "static/media/JavascriptLogo.png": "/portafolio2022/static/media/JavascriptLogo.ba0a928588f389c91981.png",
-    "static/media/blog.png": "/portafolio2022/static/media/blog.825f7e98ec6a97121626.png",
-    "static/media/phpLogo.png": "/portafolio2022/static/media/phpLogo.502c1a901665a0453b5c.png",
-    "static/media/bootstrap.png": "/portafolio2022/static/media/bootstrap.a2a667b23f9facbda796.png",
-    "static/media/CSSlogo.png": "/portafolio2022/static/media/CSSlogo.74ff0b5fd86f9eadddd3.png",
-    "static/media/appClima.png": "/portafolio2022/static/media/appClima.ce71cf94282c64f07f8c.png",
-    "static/media/reactLogo.png": "/portafolio2022/static/media/reactLogo.ef28a7569ef18dd72579.png",
-    "static/media/in.png": "/portafolio2022/static/media/in.8b89ce01929a419c5625.png",
-    "static/media/nodeJsLogo.png": "/portafolio2022/static/media/nodeJsLogo.e71346fe0fec16ec5f6e.png",
-    "static/media/twtLogo.ico": "/portafolio2022/static/media/twtLogo.7d9bd5360c8695375c2e.ico",
-    "static/media/demo.svg": "/portafolio2022/static/media/demo.12d4b788fd00b9c3c1128f0070334a29.svg",
-    "static/media/githubLogo.svg": "/portafolio2022/static/media/githubLogo.04be58c17b3d5e9744424d414240dd85.svg",
-    "index.html": "/portafolio2022/index.html",
-    "static/media/code.svg": "/portafolio2022/static/media/code.a7e2687aa7d2ba04db24381a0aceb775.svg",
-    "static/media/arrow.svg": "/portafolio2022/static/media/arrow.cc58964f6bb0b0cfe627f8d23ce42b12.svg",
-    "main.71e6d4a8.css.map": "/portafolio2022/static/css/main.71e6d4a8.css.map",
-    "main.132efd86.js.map": "/portafolio2022/static/js/main.132efd86.js.map"
+    "main.css": "/static/css/main.71e6d4a8.css",
+    "main.js": "/static/js/main.46a5d6d7.js",
+    "static/media/tiendita.png": "/static/media/tiendita.fbf9e7bed122d2d9c02a.png",
+    "static/media/JavascriptLogo.png": "/static/media/JavascriptLogo.ba0a928588f389c91981.png",
+    "static/media/blog.png": "/static/media/blog.825f7e98ec6a97121626.png",
+    "static/media/phpLogo.png": "/static/media/phpLogo.502c1a901665a0453b5c.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.a2a667b23f9facbda796.png",
+    "static/media/CSSlogo.png": "/static/media/CSSlogo.74ff0b5fd86f9eadddd3.png",
+    "static/media/appClima.png": "/static/media/appClima.ce71cf94282c64f07f8c.png",
+    "static/media/reactLogo.png": "/static/media/reactLogo.ef28a7569ef18dd72579.png",
+    "static/media/in.png": "/static/media/in.8b89ce01929a419c5625.png",
+    "static/media/nodeJsLogo.png": "/static/media/nodeJsLogo.e71346fe0fec16ec5f6e.png",
+    "static/media/twtLogo.ico": "/static/media/twtLogo.7d9bd5360c8695375c2e.ico",
+    "static/media/demo.svg": "/static/media/demo.12d4b788fd00b9c3c1128f0070334a29.svg",
+    "static/media/githubLogo.svg": "/static/media/githubLogo.04be58c17b3d5e9744424d414240dd85.svg",
+    "static/media/code.svg": "/static/media/code.a7e2687aa7d2ba04db24381a0aceb775.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.cc58964f6bb0b0cfe627f8d23ce42b12.svg",
+    "main.71e6d4a8.css.map": "/static/css/main.71e6d4a8.css.map",
+    "main.46a5d6d7.js.map": "/static/js/main.46a5d6d7.js.map"
   },
   "entrypoints": [
     "static/css/main.71e6d4a8.css",
-    "static/js/main.132efd86.js"
+    "static/js/main.46a5d6d7.js"
   ]
 }
